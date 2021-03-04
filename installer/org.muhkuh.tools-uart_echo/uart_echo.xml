@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jonchki-artifact version="1.0">
+	<info group="org.muhkuh.tools"
+	      module="uart_echo"
+	      artifact="uart_echo"
+	      version="${PROJECT_VERSION}"
+	      vcs-id="${PROJECT_VERSION_VCS}"
+	      extension="zip">
+		<license name="GPL-2.0"/>
+		<author name="Muhkuh Team" url="https://github.com/muhkuh-sys" />
+		<description>
+			A netX firmware which echos all characters on a UART connection with case swapping.
+		</description>
+	</info>
+	<dependencies>
+	</dependencies>
+</jonchki-artifact>
